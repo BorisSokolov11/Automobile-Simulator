@@ -5,7 +5,7 @@ School project for graduation
 https://docs.google.com/document/d/1Sk5HjTnGerCGHxoLQ2SBMM8LJcSCnkaNm4ZS78BWRqE/edit?usp=sharing
 
 ## Принципна електрическа схема
-<img src="pictures/sim1_schematic.jpg" width="1000">
+<img src="pictures/sim1_schematic.jpg" width="1100">
 
 ## Снимки 
 
