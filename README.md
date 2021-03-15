@@ -4,8 +4,11 @@ School project for graduation
 ## Документация
 https://docs.google.com/document/d/1Sk5HjTnGerCGHxoLQ2SBMM8LJcSCnkaNm4ZS78BWRqE/edit?usp=sharing
 
-## Принципна електрическа схема
-<img src="pictures/sim1_schematic.jpg" width="900">
+## Принципна електрическа схема на автомобилния симулатор
+<img src="pictures/sim_schematic.jpg" width="900">
+
+## Принципна електрическа схема на инструменталното табло
+<img src="pictures/dashboard_schematic.jpg" width="900">
 
 ## Снимки 
 
